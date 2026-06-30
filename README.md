@@ -1,5 +1,13 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+
+![DAX](https://img.shields.io/badge/DAX-Measures-orange)
+
 # Chocolate-Sales-Analysis
 SQL and Power BI project analyzing 85K+ chocolate sales records.
 
