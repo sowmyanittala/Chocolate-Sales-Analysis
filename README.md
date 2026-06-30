@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 # Chocolate-Sales-Analysis
 SQL and Power BI project analyzing 85K+ chocolate sales records.
 
